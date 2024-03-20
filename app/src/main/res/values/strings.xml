@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="pic1">Forget Me Not</string>
+    <string name="pic2">Alive</string>
+    <string name="pic3">Simon</string>
+    <string name="pic4">Friend</string>
+    <string name="des1">Reona (2018)</string>
+    <string name="des2">Reona (2022)</string>
+    <string name="des3">Reona (2020)</string>
+    <string name="des4">Reona (2022)</string>
+</resources>
