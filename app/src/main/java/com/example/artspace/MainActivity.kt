@@ -85,9 +85,9 @@ fun ArtSpace(modifier: Modifier = Modifier) {
         else -> R.string.des4
     }
     if(step < 1){
-        step = 1
-    }else if(step > 4){
         step = 4
+    }else if(step > 4){
+        step = 1
     }
 
     Box(modifier = modifier) {
